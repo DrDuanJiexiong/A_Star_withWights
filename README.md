@@ -3,15 +3,6 @@ an implementation of A star algorithm with wights
 
 #main.cpp
 
-#include <iostream>  
-#include <stdlib.h>
-#include <ctime>
-#include <fstream>
-#include <chrono>
-#include "a-star.h"
-
-using namespace std;
-
 int main()
 {
 	//初始化地图，用二维矩阵代表地图
